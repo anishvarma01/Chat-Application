@@ -1,0 +1,3 @@
+C:\Users\axa97960\Desktop\Project\Chat Application\Chat Application\obj\Debug\Chat_Application.Form1.resources
+C:\Users\axa97960\Desktop\Project\Chat Application\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
+C:\Users\axa97960\Desktop\Project\Chat Application\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
